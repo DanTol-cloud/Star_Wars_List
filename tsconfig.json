@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node"
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "include": [
+    "./index.d.ts"
+  ]
+}
